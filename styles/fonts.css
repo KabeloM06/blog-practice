@@ -1,0 +1,15 @@
+@font-face {
+    font-family: sitetitle;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: josefin;
+    src: url('../fonts/Josefin_Sans/static/JosefinSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: sitemenu;
+    src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+}
+
